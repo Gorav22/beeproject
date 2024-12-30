@@ -1,0 +1,38 @@
+[
+  {
+    "name": "New User",
+    "email": "heydnvjknrg@gmail.com",
+    "phone": "9877352658",
+    "address": "Barnala",
+    "city": "Barnala",
+    "state": "Punjab",
+    "zip": "148101",
+    "country": "India",
+    "age": "21",
+    "occupation": "Student"
+  },
+  {
+    "name": "Gorav Jindal",
+    "email": "goravjindal86@gmail.com",
+    "phone": "07009857119",
+    "address": "fkgk",
+    "city": "rgjirj",
+    "state": "Statejbrgjt",
+    "zip": "148101",
+    "country": "India",
+    "age": "18",
+    "occupation": "4glt"
+  },
+  {
+    "name": "Gorav Jindal",
+    "email": "goravjindal86@gmail.com",
+    "phone": "07009857119",
+    "address": "asdfg@123.gmail.com",
+    "city": "dfghjk",
+    "state": "State",
+    "zip": "148101",
+    "country": "India",
+    "age": "24",
+    "occupation": "dfghj"
+  }
+]
