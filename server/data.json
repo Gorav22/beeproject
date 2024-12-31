@@ -34,5 +34,17 @@
     "country": "India",
     "age": "24",
     "occupation": "dfghj"
+  },
+  {
+    "name": "Gorav Jindal",
+    "email": "gorav0083.be23@chitkara.edu.in",
+    "phone": "07009857119",
+    "address": "B-V/344/3 Radha Swami street",
+    "city": "Barnala",
+    "state": "India",
+    "zip": "148101",
+    "country": "India",
+    "age": "18",
+    "occupation": "Student"
   }
 ]
